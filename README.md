@@ -120,7 +120,7 @@ On the CSS the best learnin was on making the grid responsive:
 ### Useful resources
 
 - [Grid snippet](https://css-tricks.com/snippets/css/complete-guide-grid/) - Really helped with the grid properties. 
-- [Shadow generator](https://html-css-js.com/css/generator/box-shadow/) - This one awlays helps with css shadows
+- [Shadow generator](https://html-css-js.com/css/generator/box-shadow/) - This one always helps with css shadows
 
 
 ## Author
